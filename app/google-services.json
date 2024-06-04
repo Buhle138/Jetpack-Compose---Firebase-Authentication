@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623188984787",
+    "project_id": "loginsignupjetpackcompose",
+    "storage_bucket": "loginsignupjetpackcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623188984787:android:eb8307ba59f16732142526",
+        "android_client_info": {
+          "package_name": "com.example.connectingtofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeLr-fa5booA8vMVQiV-KbSHE--XvilSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
